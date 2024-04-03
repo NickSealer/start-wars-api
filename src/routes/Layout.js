@@ -20,6 +20,9 @@ export const Layout = () => {
                 <li>
                   <NavLink to='/planets' className='nav-link'>Planets</NavLink>
                 </li>
+                <li>
+                  <NavLink to='/starships' className='nav-link'>Starships</NavLink>
+                </li>
               </ul>
             </div>
           </div>
